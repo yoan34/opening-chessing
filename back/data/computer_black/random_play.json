@@ -1,0 +1,1089 @@
+{
+    "d2d4,d7d5,c2c4,d5c4": {
+        "moves": [
+            {
+                "total_games": 5278566,
+                "freq": 34.2,
+                "uci": "b1c3"
+            },
+            {
+                "total_games": 4392582,
+                "freq": 28.46,
+                "uci": "e2e3"
+            },
+            {
+                "total_games": 3795087,
+                "freq": 24.59,
+                "uci": "e2e4"
+            },
+            {
+                "total_games": 1123427,
+                "freq": 7.28,
+                "uci": "g1f3"
+            },
+            {
+                "total_games": 438731,
+                "freq": 2.84,
+                "uci": "d1a4"
+            },
+            {
+                "total_games": 169557,
+                "freq": 1.1,
+                "uci": "c1f4"
+            },
+            {
+                "total_games": 58797,
+                "freq": 0.38,
+                "uci": "d4d5"
+            },
+            {
+                "total_games": 53750,
+                "freq": 0.35,
+                "uci": "g2g3"
+            },
+            {
+                "total_games": 30608,
+                "freq": 0.2,
+                "uci": "b2b3"
+            },
+            {
+                "total_games": 25148,
+                "freq": 0.16,
+                "uci": "a2a4"
+            },
+            {
+                "total_games": 19882,
+                "freq": 0.13,
+                "uci": "c1g5"
+            },
+            {
+                "total_games": 10673,
+                "freq": 0.07,
+                "uci": "a2a3"
+            },
+            {
+                "total_games": 10145,
+                "freq": 0.07,
+                "uci": "b1d2"
+            },
+            {
+                "total_games": 8130,
+                "freq": 0.05,
+                "uci": "b1a3"
+            },
+            {
+                "total_games": 6251,
+                "freq": 0.04,
+                "uci": "d1c2"
+            },
+            {
+                "total_games": 3956,
+                "freq": 0.03,
+                "uci": "b2b4"
+            },
+            {
+                "total_games": 3362,
+                "freq": 0.02,
+                "uci": "f2f3"
+            },
+            {
+                "total_games": 2707,
+                "freq": 0.02,
+                "uci": "h2h3"
+            },
+            {
+                "total_games": 1467,
+                "freq": 0.01,
+                "uci": "f2f4"
+            },
+            {
+                "total_games": 1178,
+                "freq": 0.01,
+                "uci": "c1e3"
+            }
+        ],
+        "count": 1,
+        "total_game_move": 15434004,
+        "name": {
+            "eco": "D20",
+            "name": "Queen's Gambit Accepted"
+        },
+        "fen": "rnbqkbnr/ppp1pppp/8/8/2pP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3"
+    },
+    "d2d4,d7d5,c2c4,d5c4,e2e3,e7e5": {
+        "moves": [
+            {
+                "total_games": 259319,
+                "freq": 76.05,
+                "uci": "f1c4"
+            },
+            {
+                "total_games": 31484,
+                "freq": 9.23,
+                "uci": "g1f3"
+            },
+            {
+                "total_games": 17025,
+                "freq": 4.99,
+                "uci": "d4d5"
+            },
+            {
+                "total_games": 13921,
+                "freq": 4.08,
+                "uci": "b1c3"
+            },
+            {
+                "total_games": 9917,
+                "freq": 2.91,
+                "uci": "d4e5"
+            },
+            {
+                "total_games": 5889,
+                "freq": 1.73,
+                "uci": "d1a4"
+            },
+            {
+                "total_games": 971,
+                "freq": 0.28,
+                "uci": "d1f3"
+            },
+            {
+                "total_games": 656,
+                "freq": 0.19,
+                "uci": "a2a3"
+            },
+            {
+                "total_games": 522,
+                "freq": 0.15,
+                "uci": "g1e2"
+            },
+            {
+                "total_games": 235,
+                "freq": 0.07,
+                "uci": "a2a4"
+            },
+            {
+                "total_games": 233,
+                "freq": 0.07,
+                "uci": "b2b3"
+            },
+            {
+                "total_games": 150,
+                "freq": 0.04,
+                "uci": "e3e4"
+            },
+            {
+                "total_games": 131,
+                "freq": 0.04,
+                "uci": "b1d2"
+            },
+            {
+                "total_games": 129,
+                "freq": 0.04,
+                "uci": "f1e2"
+            },
+            {
+                "total_games": 95,
+                "freq": 0.03,
+                "uci": "g2g3"
+            },
+            {
+                "total_games": 73,
+                "freq": 0.02,
+                "uci": "f2f4"
+            },
+            {
+                "total_games": 67,
+                "freq": 0.02,
+                "uci": "f1d3"
+            },
+            {
+                "total_games": 65,
+                "freq": 0.02,
+                "uci": "h2h3"
+            },
+            {
+                "total_games": 63,
+                "freq": 0.02,
+                "uci": "c1d2"
+            },
+            {
+                "total_games": 59,
+                "freq": 0.02,
+                "uci": "f2f3"
+            }
+        ],
+        "count": 1,
+        "total_game_move": 341004,
+        "name": {
+            "eco": "D20",
+            "name": "Queen's Gambit Accepted: Old Variation"
+        },
+        "fen": "rnbqkbnr/ppp2ppp/8/4p3/2pP4/4P3/PP3PPP/RNBQKBNR w KQkq - 0 4"
+    },
+    "d2d4,d7d5,c2c4,d5c4,e2e3,e7e5,f1c4,e5d4": {
+        "moves": [
+            {
+                "total_games": 114976,
+                "freq": 52.69,
+                "uci": "e3d4"
+            },
+            {
+                "total_games": 57398,
+                "freq": 26.31,
+                "uci": "d1d4"
+            },
+            {
+                "total_games": 15672,
+                "freq": 7.18,
+                "uci": "g1f3"
+            },
+            {
+                "total_games": 14447,
+                "freq": 6.62,
+                "uci": "d1f3"
+            },
+            {
+                "total_games": 8925,
+                "freq": 4.09,
+                "uci": "d1b3"
+            },
+            {
+                "total_games": 1320,
+                "freq": 0.6,
+                "uci": "d1a4"
+            },
+            {
+                "total_games": 938,
+                "freq": 0.43,
+                "uci": "e3e4"
+            },
+            {
+                "total_games": 937,
+                "freq": 0.43,
+                "uci": "b1c3"
+            },
+            {
+                "total_games": 919,
+                "freq": 0.42,
+                "uci": "d1h5"
+            },
+            {
+                "total_games": 859,
+                "freq": 0.39,
+                "uci": "c4f7"
+            },
+            {
+                "total_games": 595,
+                "freq": 0.27,
+                "uci": "g1e2"
+            },
+            {
+                "total_games": 360,
+                "freq": 0.16,
+                "uci": "c4b5"
+            },
+            {
+                "total_games": 200,
+                "freq": 0.09,
+                "uci": "b2b3"
+            },
+            {
+                "total_games": 120,
+                "freq": 0.05,
+                "uci": "c4d3"
+            },
+            {
+                "total_games": 117,
+                "freq": 0.05,
+                "uci": "a2a3"
+            },
+            {
+                "total_games": 105,
+                "freq": 0.05,
+                "uci": "d1d3"
+            },
+            {
+                "total_games": 90,
+                "freq": 0.04,
+                "uci": "c4b3"
+            },
+            {
+                "total_games": 79,
+                "freq": 0.04,
+                "uci": "d1e2"
+            },
+            {
+                "total_games": 75,
+                "freq": 0.03,
+                "uci": "c4e2"
+            },
+            {
+                "total_games": 65,
+                "freq": 0.03,
+                "uci": "d1d2"
+            }
+        ],
+        "count": 1,
+        "total_game_move": 218197,
+        "name": {
+            "eco": "D20",
+            "name": "Queen's Gambit Accepted: Old Variation"
+        },
+        "fen": "rnbqkbnr/ppp2ppp/8/8/2Bp4/4P3/PP3PPP/RNBQK1NR w KQkq - 0 5"
+    },
+    "d2d4,d7d5,c2c4,d5c4,e2e3,e7e5,f1c4,e5d4,e3d4,f8d6": {
+        "moves": [
+            {
+                "total_games": 3140,
+                "freq": 46.81,
+                "uci": "g1f3"
+            },
+            {
+                "total_games": 1400,
+                "freq": 20.87,
+                "uci": "b1c3"
+            },
+            {
+                "total_games": 827,
+                "freq": 12.33,
+                "uci": "d1f3"
+            },
+            {
+                "total_games": 360,
+                "freq": 5.37,
+                "uci": "d1b3"
+            },
+            {
+                "total_games": 180,
+                "freq": 2.68,
+                "uci": "g1e2"
+            },
+            {
+                "total_games": 167,
+                "freq": 2.49,
+                "uci": "d1h5"
+            },
+            {
+                "total_games": 154,
+                "freq": 2.3,
+                "uci": "d1e2"
+            },
+            {
+                "total_games": 149,
+                "freq": 2.22,
+                "uci": "c1e3"
+            },
+            {
+                "total_games": 84,
+                "freq": 1.25,
+                "uci": "c4f7"
+            },
+            {
+                "total_games": 78,
+                "freq": 1.16,
+                "uci": "h2h3"
+            },
+            {
+                "total_games": 63,
+                "freq": 0.94,
+                "uci": "d4d5"
+            },
+            {
+                "total_games": 27,
+                "freq": 0.4,
+                "uci": "a2a3"
+            },
+            {
+                "total_games": 16,
+                "freq": 0.24,
+                "uci": "b2b3"
+            },
+            {
+                "total_games": 15,
+                "freq": 0.22,
+                "uci": "d1a4"
+            },
+            {
+                "total_games": 13,
+                "freq": 0.19,
+                "uci": "f2f4"
+            },
+            {
+                "total_games": 12,
+                "freq": 0.18,
+                "uci": "g2g3"
+            },
+            {
+                "total_games": 8,
+                "freq": 0.12,
+                "uci": "c4b3"
+            },
+            {
+                "total_games": 7,
+                "freq": 0.1,
+                "uci": "c4b5"
+            },
+            {
+                "total_games": 4,
+                "freq": 0.06,
+                "uci": "f2f3"
+            },
+            {
+                "total_games": 4,
+                "freq": 0.06,
+                "uci": "c4e2"
+            }
+        ],
+        "count": 1,
+        "total_game_move": 6708,
+        "name": {
+            "eco": "D20",
+            "name": "Queen's Gambit Accepted: Old Variation"
+        },
+        "fen": "rnbqk1nr/ppp2ppp/3b4/8/2BP4/8/PP3PPP/RNBQK1NR w KQkq - 1 6"
+    },
+    "d2d4,d7d5,c2c4,d5c4,e2e3,e7e5,f1c4,e5d4,e3d4,f8d6,g1f3,g8f6": {
+        "moves": [
+            {
+                "total_games": 13502,
+                "freq": 46.59,
+                "uci": "e1h1"
+            },
+            {
+                "total_games": 6419,
+                "freq": 22.15,
+                "uci": "b1c3"
+            },
+            {
+                "total_games": 2578,
+                "freq": 8.9,
+                "uci": "c1g5"
+            },
+            {
+                "total_games": 1891,
+                "freq": 6.53,
+                "uci": "f3g5"
+            },
+            {
+                "total_games": 1224,
+                "freq": 4.22,
+                "uci": "d1b3"
+            },
+            {
+                "total_games": 987,
+                "freq": 3.41,
+                "uci": "d1e2"
+            },
+            {
+                "total_games": 923,
+                "freq": 3.19,
+                "uci": "c4f7"
+            },
+            {
+                "total_games": 423,
+                "freq": 1.46,
+                "uci": "h2h3"
+            },
+            {
+                "total_games": 378,
+                "freq": 1.3,
+                "uci": "c1e3"
+            },
+            {
+                "total_games": 172,
+                "freq": 0.59,
+                "uci": "f3e5"
+            },
+            {
+                "total_games": 132,
+                "freq": 0.46,
+                "uci": "d4d5"
+            },
+            {
+                "total_games": 73,
+                "freq": 0.25,
+                "uci": "a2a3"
+            },
+            {
+                "total_games": 61,
+                "freq": 0.21,
+                "uci": "d1a4"
+            },
+            {
+                "total_games": 49,
+                "freq": 0.17,
+                "uci": "b2b3"
+            },
+            {
+                "total_games": 37,
+                "freq": 0.13,
+                "uci": "c4b3"
+            },
+            {
+                "total_games": 31,
+                "freq": 0.11,
+                "uci": "b1d2"
+            },
+            {
+                "total_games": 28,
+                "freq": 0.1,
+                "uci": "c4d3"
+            },
+            {
+                "total_games": 27,
+                "freq": 0.09,
+                "uci": "d1d3"
+            },
+            {
+                "total_games": 22,
+                "freq": 0.08,
+                "uci": "g2g3"
+            },
+            {
+                "total_games": 21,
+                "freq": 0.07,
+                "uci": "e1f1"
+            }
+        ],
+        "count": 1,
+        "total_game_move": 28978,
+        "name": {
+            "eco": "D20",
+            "name": "Queen's Gambit Accepted: Old Variation"
+        },
+        "fen": "rnbqk2r/ppp2ppp/3b1n2/8/2BP4/5N2/PP3PPP/RNBQK2R w KQkq - 3 7"
+    },
+    "d2d4,d7d5,c2c4,d5c4,e2e3,e7e5,f1c4,e5d4,e3d4,f8d6,g1f3,g8f6,b1c3,e8g8": {
+        "moves": [
+            {
+                "total_games": 11768,
+                "freq": 72.21,
+                "uci": "e1h1"
+            },
+            {
+                "total_games": 2186,
+                "freq": 13.41,
+                "uci": "c1g5"
+            },
+            {
+                "total_games": 947,
+                "freq": 5.81,
+                "uci": "c1e3"
+            },
+            {
+                "total_games": 366,
+                "freq": 2.25,
+                "uci": "h2h3"
+            },
+            {
+                "total_games": 219,
+                "freq": 1.34,
+                "uci": "d1b3"
+            },
+            {
+                "total_games": 138,
+                "freq": 0.85,
+                "uci": "f3g5"
+            },
+            {
+                "total_games": 120,
+                "freq": 0.74,
+                "uci": "c4d3"
+            },
+            {
+                "total_games": 93,
+                "freq": 0.57,
+                "uci": "d1c2"
+            },
+            {
+                "total_games": 83,
+                "freq": 0.51,
+                "uci": "d4d5"
+            },
+            {
+                "total_games": 73,
+                "freq": 0.45,
+                "uci": "c4b3"
+            },
+            {
+                "total_games": 49,
+                "freq": 0.3,
+                "uci": "a2a3"
+            },
+            {
+                "total_games": 49,
+                "freq": 0.3,
+                "uci": "b2b3"
+            },
+            {
+                "total_games": 34,
+                "freq": 0.21,
+                "uci": "d1d3"
+            },
+            {
+                "total_games": 33,
+                "freq": 0.2,
+                "uci": "f3e5"
+            },
+            {
+                "total_games": 31,
+                "freq": 0.19,
+                "uci": "c3b5"
+            },
+            {
+                "total_games": 26,
+                "freq": 0.16,
+                "uci": "c1d2"
+            },
+            {
+                "total_games": 23,
+                "freq": 0.14,
+                "uci": "e1f1"
+            },
+            {
+                "total_games": 22,
+                "freq": 0.13,
+                "uci": "c4f7"
+            },
+            {
+                "total_games": 22,
+                "freq": 0.13,
+                "uci": "c3d5"
+            },
+            {
+                "total_games": 16,
+                "freq": 0.1,
+                "uci": "h2h4"
+            }
+        ],
+        "count": 0,
+        "total_game_move": 16298,
+        "name": {
+            "eco": "D20",
+            "name": "Queen's Gambit Accepted: Old Variation"
+        },
+        "fen": "rnbq1rk1/ppp2ppp/3b1n2/8/2BP4/2N2N2/PP3PPP/R1BQK2R w KQ - 5 8"
+    },
+    "d2d4,d7d5,c2c4,d5c4,e2e3,e7e5,f1c4,e5d4,e3d4,f8d6,g1f3,g8f6,b1c3,e8g8,e1g1,b8c6": {
+        "moves": [
+            {
+                "total_games": 1712,
+                "freq": 40.11,
+                "uci": "c1g5"
+            },
+            {
+                "total_games": 816,
+                "freq": 19.12,
+                "uci": "f1e1"
+            },
+            {
+                "total_games": 505,
+                "freq": 11.83,
+                "uci": "d4d5"
+            },
+            {
+                "total_games": 325,
+                "freq": 7.61,
+                "uci": "h2h3"
+            },
+            {
+                "total_games": 239,
+                "freq": 5.6,
+                "uci": "a2a3"
+            },
+            {
+                "total_games": 197,
+                "freq": 4.62,
+                "uci": "c1e3"
+            },
+            {
+                "total_games": 60,
+                "freq": 1.41,
+                "uci": "c4b3"
+            },
+            {
+                "total_games": 60,
+                "freq": 1.41,
+                "uci": "f3g5"
+            },
+            {
+                "total_games": 58,
+                "freq": 1.36,
+                "uci": "c4d3"
+            },
+            {
+                "total_games": 54,
+                "freq": 1.27,
+                "uci": "b2b3"
+            },
+            {
+                "total_games": 49,
+                "freq": 1.15,
+                "uci": "d1c2"
+            },
+            {
+                "total_games": 41,
+                "freq": 0.96,
+                "uci": "d1b3"
+            },
+            {
+                "total_games": 39,
+                "freq": 0.91,
+                "uci": "c3d5"
+            },
+            {
+                "total_games": 39,
+                "freq": 0.91,
+                "uci": "c3b5"
+            },
+            {
+                "total_games": 24,
+                "freq": 0.56,
+                "uci": "d1d3"
+            },
+            {
+                "total_games": 15,
+                "freq": 0.35,
+                "uci": "c1d2"
+            },
+            {
+                "total_games": 13,
+                "freq": 0.3,
+                "uci": "f3e5"
+            },
+            {
+                "total_games": 9,
+                "freq": 0.21,
+                "uci": "g2g3"
+            },
+            {
+                "total_games": 8,
+                "freq": 0.19,
+                "uci": "a2a4"
+            },
+            {
+                "total_games": 5,
+                "freq": 0.12,
+                "uci": "c3e2"
+            }
+        ],
+        "count": 0,
+        "total_game_move": 4268,
+        "name": {
+            "eco": "D20",
+            "name": "Queen's Gambit Accepted: Old Variation"
+        },
+        "fen": "r1bq1rk1/ppp2ppp/2nb1n2/8/2BP4/2N2N2/PP3PPP/R1BQ1RK1 w - - 7 9"
+    },
+    "d2d4,d7d5,c2c4,d5c4,e2e3,e7e5,f1c4,e5d4,e3d4,f8d6,g1f3,g8f6,b1c3,e8g8,e1g1,b8c6,c1g5,h7h6": {
+        "moves": [
+            {
+                "total_games": 771,
+                "freq": 76.64,
+                "uci": "g5h4"
+            },
+            {
+                "total_games": 155,
+                "freq": 15.41,
+                "uci": "g5f6"
+            },
+            {
+                "total_games": 43,
+                "freq": 4.27,
+                "uci": "g5e3"
+            },
+            {
+                "total_games": 12,
+                "freq": 1.19,
+                "uci": "d4d5"
+            },
+            {
+                "total_games": 7,
+                "freq": 0.7,
+                "uci": "g5d2"
+            },
+            {
+                "total_games": 4,
+                "freq": 0.4,
+                "uci": "f1e1"
+            },
+            {
+                "total_games": 2,
+                "freq": 0.2,
+                "uci": "g5h6"
+            },
+            {
+                "total_games": 2,
+                "freq": 0.2,
+                "uci": "g5f4"
+            },
+            {
+                "total_games": 2,
+                "freq": 0.2,
+                "uci": "g5c1"
+            },
+            {
+                "total_games": 2,
+                "freq": 0.2,
+                "uci": "a2a3"
+            },
+            {
+                "total_games": 1,
+                "freq": 0.1,
+                "uci": "d1c1"
+            },
+            {
+                "total_games": 1,
+                "freq": 0.1,
+                "uci": "c3e4"
+            },
+            {
+                "total_games": 1,
+                "freq": 0.1,
+                "uci": "d1d2"
+            },
+            {
+                "total_games": 1,
+                "freq": 0.1,
+                "uci": "c4b3"
+            },
+            {
+                "total_games": 1,
+                "freq": 0.1,
+                "uci": "h2h4"
+            },
+            {
+                "total_games": 1,
+                "freq": 0.1,
+                "uci": "d1c2"
+            }
+        ],
+        "count": 0,
+        "total_game_move": 1006,
+        "name": {
+            "eco": "D20",
+            "name": "Queen's Gambit Accepted: Old Variation"
+        },
+        "fen": "r1bq1rk1/ppp2pp1/2nb1n1p/6B1/2BP4/2N2N2/PP3PPP/R2Q1RK1 w - - 0 10"
+    },
+    "": {
+        "moves": [
+            {
+                "total_games": 859356607,
+                "freq": 62.35,
+                "uci": "e2e4"
+            },
+            {
+                "total_games": 318772726,
+                "freq": 23.13,
+                "uci": "d2d4"
+            },
+            {
+                "total_games": 36410843,
+                "freq": 2.64,
+                "uci": "g1f3"
+            },
+            {
+                "total_games": 35298471,
+                "freq": 2.56,
+                "uci": "c2c4"
+            },
+            {
+                "total_games": 35255848,
+                "freq": 2.56,
+                "uci": "e2e3"
+            },
+            {
+                "total_games": 21622196,
+                "freq": 1.57,
+                "uci": "g2g3"
+            },
+            {
+                "total_games": 17750804,
+                "freq": 1.29,
+                "uci": "b2b3"
+            },
+            {
+                "total_games": 12299132,
+                "freq": 0.89,
+                "uci": "d2d3"
+            },
+            {
+                "total_games": 9956465,
+                "freq": 0.72,
+                "uci": "f2f4"
+            },
+            {
+                "total_games": 8080840,
+                "freq": 0.59,
+                "uci": "b1c3"
+            },
+            {
+                "total_games": 5557626,
+                "freq": 0.4,
+                "uci": "b2b4"
+            },
+            {
+                "total_games": 4235167,
+                "freq": 0.31,
+                "uci": "c2c3"
+            },
+            {
+                "total_games": 4233120,
+                "freq": 0.31,
+                "uci": "g2g4"
+            },
+            {
+                "total_games": 2346164,
+                "freq": 0.17,
+                "uci": "h2h4"
+            },
+            {
+                "total_games": 1887788,
+                "freq": 0.14,
+                "uci": "f2f3"
+            },
+            {
+                "total_games": 1539254,
+                "freq": 0.11,
+                "uci": "a2a4"
+            },
+            {
+                "total_games": 1419551,
+                "freq": 0.1,
+                "uci": "a2a3"
+            },
+            {
+                "total_games": 1395488,
+                "freq": 0.1,
+                "uci": "h2h3"
+            },
+            {
+                "total_games": 568758,
+                "freq": 0.04,
+                "uci": "g1h3"
+            },
+            {
+                "total_games": 210878,
+                "freq": 0.02,
+                "uci": "b1a3"
+            }
+        ],
+        "count": 3,
+        "total_game_move": 1378197726,
+        "name": null,
+        "fen": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"
+    },
+    "e2e4,c7c6": {
+        "moves": [
+            {
+                "total_games": 16426344,
+                "freq": 35.27,
+                "uci": "g1f3"
+            },
+            {
+                "total_games": 15263210,
+                "freq": 32.77,
+                "uci": "d2d4"
+            },
+            {
+                "total_games": 4766079,
+                "freq": 10.23,
+                "uci": "f1c4"
+            },
+            {
+                "total_games": 3449784,
+                "freq": 7.41,
+                "uci": "b1c3"
+            },
+            {
+                "total_games": 1691496,
+                "freq": 3.63,
+                "uci": "f2f4"
+            },
+            {
+                "total_games": 1464730,
+                "freq": 3.14,
+                "uci": "d2d3"
+            },
+            {
+                "total_games": 740264,
+                "freq": 1.59,
+                "uci": "d1f3"
+            },
+            {
+                "total_games": 677989,
+                "freq": 1.46,
+                "uci": "c2c4"
+            },
+            {
+                "total_games": 626598,
+                "freq": 1.35,
+                "uci": "e4e5"
+            },
+            {
+                "total_games": 364745,
+                "freq": 0.78,
+                "uci": "d1h5"
+            },
+            {
+                "total_games": 363453,
+                "freq": 0.78,
+                "uci": "c2c3"
+            },
+            {
+                "total_games": 165536,
+                "freq": 0.36,
+                "uci": "g2g3"
+            },
+            {
+                "total_games": 155352,
+                "freq": 0.33,
+                "uci": "f2f3"
+            },
+            {
+                "total_games": 139870,
+                "freq": 0.3,
+                "uci": "b2b3"
+            },
+            {
+                "total_games": 61477,
+                "freq": 0.13,
+                "uci": "a2a3"
+            },
+            {
+                "total_games": 58005,
+                "freq": 0.12,
+                "uci": "f1d3"
+            },
+            {
+                "total_games": 51642,
+                "freq": 0.11,
+                "uci": "g1e2"
+            },
+            {
+                "total_games": 45213,
+                "freq": 0.1,
+                "uci": "f1e2"
+            },
+            {
+                "total_games": 41954,
+                "freq": 0.09,
+                "uci": "h2h3"
+            },
+            {
+                "total_games": 25689,
+                "freq": 0.06,
+                "uci": "b2b4"
+            }
+        ],
+        "count": 0,
+        "total_game_move": 46579430,
+        "name": {
+            "eco": "B10",
+            "name": "Caro-Kann Defense"
+        },
+        "fen": "rnbqkbnr/pp1ppppp/2p5/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2"
+    }
+}

@@ -1,0 +1,210 @@
+[
+    {
+        "maxMoves": 10,
+        "NumberOfOpening": 3,
+        "startMove": "e2e4",
+        "secondes": 120,
+        "fen": "rnbqkb1r/pppppppp/8/8/8/8/PPPPPPPP/RNBQKB1R w KQkq - 0 1",
+        "openingName": "Ruy Lopez",
+        "createdAt": "2024-11-15T16:41:42.584Z",
+        "score": 100,
+        "openings": [
+            {
+                "id": 1,
+                "score": 50,
+                "moves": [
+                    {
+                        "uci": "e2e4",
+                        "score": 20
+                    },
+                    {
+                        "uci": "e7e5",
+                        "score": 30
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "maxMoves": 10,
+        "NumberOfOpening": 3,
+        "startMove": "e2e4",
+        "secondes": 120,
+        "fen": "rnbqkb1r/pppppppp/8/8/8/8/PPPPPPPP/RNBQKB1R w KQkq - 0 1",
+        "openingName": "Ruy Lopez",
+        "createdAt": "2024-11-15T16:41:42.588Z",
+        "score": 100,
+        "openings": [
+            {
+                "id": 1,
+                "score": 50,
+                "moves": [
+                    {
+                        "uci": "e2e4",
+                        "score": 20
+                    },
+                    {
+                        "uci": "e7e5",
+                        "score": 30
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "maxMoves": 10,
+        "NumberOfOpening": 3,
+        "startMove": "e2e4",
+        "secondes": 120,
+        "fen": "rnbqkb1r/pppppppp/8/8/8/8/PPPPPPPP/RNBQKB1R w KQkq - 0 1",
+        "openingName": "Ruy Lopez",
+        "createdAt": "2024-11-15T16:43:25.443Z",
+        "score": 100,
+        "openings": [
+            {
+                "id": 1,
+                "score": 50,
+                "moves": [
+                    {
+                        "uci": "e2e4",
+                        "score": 20
+                    },
+                    {
+                        "uci": "e7e5",
+                        "score": 30
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "maxMoves": 10,
+        "NumberOfOpening": 3,
+        "startMove": "e2e4",
+        "secondes": 120,
+        "fen": "rnbqkb1r/pppppppp/8/8/8/8/PPPPPPPP/RNBQKB1R w KQkq - 0 1",
+        "openingName": "Ruy Lopez",
+        "createdAt": "2024-11-15T16:43:25.452Z",
+        "score": 100,
+        "openings": [
+            {
+                "id": 1,
+                "score": 50,
+                "moves": [
+                    {
+                        "uci": "e2e4",
+                        "score": 20
+                    },
+                    {
+                        "uci": "e7e5",
+                        "score": 30
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "maxMoves": 10,
+        "NumberOfOpening": 3,
+        "startMove": "e2e4",
+        "secondes": 120,
+        "fen": "rnbqkb1r/pppppppp/8/8/8/8/PPPPPPPP/RNBQKB1R w KQkq - 0 1",
+        "openingName": "Ruy Lopez",
+        "createdAt": "2024-11-15T16:43:52.928Z",
+        "score": 100,
+        "openings": [
+            {
+                "id": 1,
+                "score": 50,
+                "moves": [
+                    {
+                        "uci": "e2e4",
+                        "score": 20
+                    },
+                    {
+                        "uci": "e7e5",
+                        "score": 30
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "maxMoves": 10,
+        "NumberOfOpening": 3,
+        "startMove": "e2e4",
+        "secondes": 120,
+        "fen": "rnbqkb1r/pppppppp/8/8/8/8/PPPPPPPP/RNBQKB1R w KQkq - 0 1",
+        "openingName": "Ruy Lopez",
+        "createdAt": "2024-11-15T16:43:52.932Z",
+        "score": 100,
+        "openings": [
+            {
+                "id": 1,
+                "score": 50,
+                "moves": [
+                    {
+                        "uci": "e2e4",
+                        "score": 20
+                    },
+                    {
+                        "uci": "e7e5",
+                        "score": 30
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "maxMoves": 10,
+        "NumberOfOpening": 3,
+        "startMove": "e2e4",
+        "secondes": 120,
+        "fen": "rnbqkb1r/pppppppp/8/8/8/8/PPPPPPPP/RNBQKB1R w KQkq - 0 1",
+        "openingName": "Ruy Lopez",
+        "createdAt": "2024-11-15T16:47:31.628Z",
+        "score": 100,
+        "openings": [
+            {
+                "id": 1,
+                "score": 50,
+                "moves": [
+                    {
+                        "uci": "e2e4",
+                        "score": 20
+                    },
+                    {
+                        "uci": "e7e5",
+                        "score": 30
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "maxMoves": 10,
+        "NumberOfOpening": 3,
+        "startMove": "e2e4",
+        "secondes": 120,
+        "fen": "rnbqkb1r/pppppppp/8/8/8/8/PPPPPPPP/RNBQKB1R w KQkq - 0 1",
+        "openingName": "Ruy Lopez",
+        "createdAt": "2024-11-15T16:47:31.630Z",
+        "score": 100,
+        "openings": [
+            {
+                "id": 1,
+                "score": 50,
+                "moves": [
+                    {
+                        "uci": "e2e4",
+                        "score": 20
+                    },
+                    {
+                        "uci": "e7e5",
+                        "score": 30
+                    }
+                ]
+            }
+        ]
+    }
+]
