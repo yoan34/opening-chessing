@@ -1,7 +1,6 @@
-import { computerPlay, getOpeningsToLearn, saveSession, validateTopMove } from '@/api'
-import MovesHistory from '@/components/MoveHistory'
-import Session from '@/components/Session'
-import SessionForm from '@/components/SessionForm'
+import { getOpeningsToLearn } from '@/api'
+
+import ProgressBar from '@/components/ProgressBar'
 import React, { CSSProperties, useEffect, useRef, useState } from 'react'
 import Chessboard from 'chessboardjsx'
 import { Chess, Square, Move } from 'chess.js'
@@ -317,11 +316,14 @@ const WithMoveValidation = () => {
   }
   // d2d4g8f6c2c4c7c5d4d5b7b5c4b5a7a6e2e3g7g6b1c3f8g7e3e4
   // d2d4g8f6c2c4c7c5d4d5b7b5c4b5a7a6e2e3d7d6b1c3g7g6e3e4
+  const totalOpeningsCount = openings.length
+  const completedOpeningsCount = playedOpenings.length
   return (
     <div style={{ display: 'flex', flexDirection: 'row', justifyContent: 'flex-start' }}>
-      <div style={styles.containerMoves}>
-        <MovesHistory moves={moveHistory}/>
-      </div>
+      <ProgressBar
+        total={totalOpeningsCount}
+        current={completedOpeningsCount}
+      />
       <div style={styles.containerChessboard}>
         <h2 style={{ maxWidth: '700px' }}>{openingName ? openingName : 'Start'}</h2>
         <h4 style={{ maxWidth: '700px' }}>{totalMove ? totalMove : 'Start'}</h4>
