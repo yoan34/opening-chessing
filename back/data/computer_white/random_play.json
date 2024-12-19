@@ -7858,5 +7858,82 @@
             "name": "Queen's Gambit Accepted: Central Variation, Greco Variation"
         },
         "fen": "rn1qkbnr/p4ppp/2p1p3/8/2NPP3/5N2/1P3PPP/R1BQK2R b KQkq - 1 9"
+    },
+    "d2d4,g8f6,c2c4,c7c5,d4d5,b7b5,c4b5,a7a6,e2e3,d7d6,b1c3,g7g6,e3e4": {
+        "moves": [
+            {
+                "total_games": 119,
+                "freq": 83.22,
+                "uci": "f8g7"
+            },
+            {
+                "total_games": 12,
+                "freq": 8.39,
+                "uci": "b8d7"
+            },
+            {
+                "total_games": 7,
+                "freq": 4.9,
+                "uci": "a6b5"
+            },
+            {
+                "total_games": 3,
+                "freq": 2.1,
+                "uci": "d8a5"
+            },
+            {
+                "total_games": 1,
+                "freq": 0.7,
+                "uci": "f6g4"
+            },
+            {
+                "total_games": 1,
+                "freq": 0.7,
+                "uci": "d8c7"
+            }
+        ],
+        "count": 4,
+        "total_game_move": 143,
+        "name": {
+            "eco": "A57",
+            "name": "Benko Gambit Accepted: Modern Variation"
+        },
+        "fen": "rnbqkb1r/4pp1p/p2p1np1/1PpP4/4P3/2N5/PP3PPP/R1BQKBNR b KQkq - 0 7"
+    },
+    "d2d4,g8f6,c2c4,c7c5,d4d5,b7b5,c4b5,a7a6,e2e3,d7d6,b1c3,g7g6,e3e4,f8g7,a2a4": {
+        "moves": [
+            {
+                "total_games": 26,
+                "freq": 72.22,
+                "uci": "e8h8"
+            },
+            {
+                "total_games": 4,
+                "freq": 11.11,
+                "uci": "a6b5"
+            },
+            {
+                "total_games": 3,
+                "freq": 8.33,
+                "uci": "b8d7"
+            },
+            {
+                "total_games": 2,
+                "freq": 5.56,
+                "uci": "c8d7"
+            },
+            {
+                "total_games": 1,
+                "freq": 2.78,
+                "uci": "a6a5"
+            }
+        ],
+        "count": 0,
+        "total_game_move": 36,
+        "name": {
+            "eco": "A57",
+            "name": "Benko Gambit Accepted: Modern Variation"
+        },
+        "fen": "rnbqk2r/4ppbp/p2p1np1/1PpP4/P3P3/2N5/1P3PPP/R1BQKBNR b KQkq - 0 8"
     }
 }

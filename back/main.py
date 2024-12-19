@@ -1,4 +1,4 @@
-from fastapi import FastAPI
+from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from typing import List
 from pydantic import BaseModel
@@ -135,3 +135,37 @@ async def save_session(session: SessionData):
     return {"status": "success", "message": "Session saved successfully"}
   except Exception as e:
     raise HTTPException(status_code=500, detail=f"Error saving session: {e}")
+  
+  
+class OpeningToLearn(BaseModel):
+  name: str
+  moves: List[str]
+  fen: str = "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1" 
+    
+class OpeningsRequest(BaseModel):
+    names: List[str]
+
+@app.post("/openings_to_learn", response_model=List[dict])
+async def get_openings_to_learn(request: OpeningsRequest):
+    try:
+        # Charger toutes les ouvertures depuis le fichier JSON
+        with open("data/top_opening_white.json", "r") as f:
+            all_openings = json.load(f)
+        
+        # Filtrer les ouvertures qui correspondent aux noms demandés
+        filtered_openings = []
+        for opening in all_openings:
+            if opening.get('name', {}).get('name') in request.names:
+                # Transformer l'ouverture en format approprié
+                processed_opening = {
+                    "name": opening['name']['name'],
+                    "moves": opening['plays'].split(','),
+                    "fen": opening['fen'],
+                    "cp": opening['cp'],
+                    "total_games": opening['total_game_move']
+                }
+                filtered_openings.append(processed_opening)
+        
+        return filtered_openings
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Error loading openings: {str(e)}")

@@ -517,5 +517,10 @@
         "moves": "g1f3 g8f6 e1h1 f8e7 d1c2 e8h8 c1f4 h7h6 f1d1 e7b4",
         "cp": 153,
         "top_move": "g1f3"
+    },
+    "rnbqk2r/4ppbp/p2p1np1/1PpP4/4P3/2N5/PP3PPP/R1BQKBNR w KQkq - 1 8": {
+        "moves": "a2a4 e8h8 g1f3 e7e6 d5e6 c8e6 c1e3 d8a5 e3d2 a5b6",
+        "cp": 125,
+        "top_move": "a2a4"
     }
 }

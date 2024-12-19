@@ -1,5 +1,6 @@
 import TabNavigation from '@/components/TabNavigation'
 import TopOpening from '@/pages/topOpening'
+import ChessOpeningPractice from '@/pages/Training'
 import React from 'react'
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
 import Openings from '@/pages/Openings'
@@ -17,6 +18,7 @@ const App: React.FC = () => {
           <Route path="/" element={<Openings/>}/>
           <Route path="/play" element={<Play/>}/>
           <Route path="/top_opening_white" element={<TopOpening/>}/>
+          <Route path="/training" element={<ChessOpeningPractice/>}/>
         </Routes>
       </div>
     </Router>

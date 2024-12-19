@@ -61,6 +61,13 @@ const Openings: React.FC = () => {
     navigate(`/play`, { state: { fen: startFen, name: 'Position de départ', color, moves: [] } })
   }
 
+
+  const handleStartTraining = (color: string) => {
+    navigate(`/training`, {
+      state: { color, fen: startFen }
+    })
+  }
+
   const whiteOpenings = openings.filter(opening => opening.fen.includes(' w '))
   const blackOpenings = openings.filter(opening => opening.fen.includes(' b '))
 
@@ -76,6 +83,7 @@ const Openings: React.FC = () => {
         <div style={styles.buttonContainer}>
           <button style={styles.button} onClick={() => handleStartGame('white')}>White</button>
           <button style={styles.button} onClick={() => handleStartGame('black')}>Black</button>
+          <button style={styles.button} onClick={() => handleStartTraining('white')}>training white</button>
         </div>
       </div>
 

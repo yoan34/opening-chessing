@@ -1128,5 +1128,20 @@
         "eco": "D20",
         "name": "Queen's Gambit Accepted: Central Variation, Greco Variation",
         "fen": "r2qkbnr/p2n1ppp/2p1p3/8/2NPP3/5N2/1P3PPP/R1BQK2R w KQkq - 2 10"
+    },
+    "d2d4,g8f6,c2c4,c7c5,d4d5,b7b5,c4b5,a7a6,e2e3,d7d6,b1c3,g7g6,e3e4,f8g7": {
+        "eco": "A57",
+        "name": "Benko Gambit Accepted: Modern Variation",
+        "fen": "rnbqk2r/4ppbp/p2p1np1/1PpP4/4P3/2N5/PP3PPP/R1BQKBNR w KQkq - 1 8"
+    },
+    "d2d4,g8f6,c2c4,c7c5,d4d5,b7b5,c4b5,a7a6,e2e3,d7d6,b1c3,g7g6,e3e4,f8g7,a2a4": {
+        "eco": "A57",
+        "name": "Benko Gambit Accepted: Modern Variation",
+        "fen": "rnbqk2r/4ppbp/p2p1np1/1PpP4/P3P3/2N5/1P3PPP/R1BQKBNR b KQkq - 0 8"
+    },
+    "d2d4,g8f6,c2c4,c7c5,d4d5,b7b5,c4b5,a7a6,e2e3,d7d6,b1c3,g7g6,e3e4,f8g7,a2a4,b8d7": {
+        "eco": "A57",
+        "name": "Benko Gambit Accepted: Modern Variation",
+        "fen": "r1bqk2r/3nppbp/p2p1np1/1PpP4/P3P3/2N5/1P3PPP/R1BQKBNR w KQkq - 1 9"
     }
 }

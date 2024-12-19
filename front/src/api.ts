@@ -104,3 +104,26 @@ export const saveSession = async (sessionData: SessionData) => {
     return false
   }
 }
+
+export const getOpeningsToLearn = async (names: string[]) => {
+  try {
+    const response = await fetch('http://localhost:8000/openings_to_learn', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json'
+      },
+      body: JSON.stringify({ names })
+    })
+
+    if (!response.ok) {
+      console.log('error')
+      return false
+    }
+
+    const data = await response.json()
+    return data
+  } catch (error) {
+    console.error('Error fetching openings:', error)
+    return false
+  }
+}
